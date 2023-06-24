@@ -4,4 +4,8 @@ __pycache__
 .DS_Store
 env
 pyrightconfig.json
+.env
+.gitignore
+.flaskenv
+.vscode
 
